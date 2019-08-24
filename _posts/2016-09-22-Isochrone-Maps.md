@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding Isochrones Map Creation in QGIS
+title: Isochrone Maps Creation in QGIS
 published: true
 ---
 
