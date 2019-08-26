@@ -10,6 +10,8 @@ published: true
 
 ## Code for Resilience Dar es salaam
 
+![Me interviewed for Code for Resilience Tanzania Program](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/cfr_interview.jpg-large)
+
 [Video](https://www.youtube.com/watch?v=KYnkZE9r0UQ&t=6s)
 
 
