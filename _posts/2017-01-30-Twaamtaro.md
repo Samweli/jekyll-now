@@ -15,6 +15,8 @@ Inspired by Adopt a Drain from Code for America!.
 
 ![Twaamtaro in action](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/twaamtaro_in_action.png)
 
+![Me presenting Twaamtaro to World Bank Tanzania Staffs](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/twaamtaro_pres.jpg)
+
 [Source code](https://github.com/Samweli/twaamtaro)
 
 [Platform](https://twaamtaro.org)
