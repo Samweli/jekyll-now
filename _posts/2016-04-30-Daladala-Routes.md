@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daladala Routes Collection
+title: Collection of Daladala Routes 
 published: true
 ---
 
