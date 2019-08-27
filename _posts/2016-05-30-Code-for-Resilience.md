@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Code for Resilience
 published: true
 ---
