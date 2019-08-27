@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Collection of Daladala Routes 
 published: true
 ---
