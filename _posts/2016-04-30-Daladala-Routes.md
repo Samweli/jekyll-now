@@ -8,7 +8,7 @@ published: true
 
 
 ![Dar es salaam transport routes (Bus routes in red)](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/bus_routes.png)
-\
+
 _Map of public transport in Dar es salaam_
 
 ## Dar es salaam Transport
@@ -20,7 +20,7 @@ The main activities were to organise and assign the mappers bus routes to collec
 
 
 [Mappers](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/daladala_mapping.png)
-\
+
 _Mappers boarding Daladala buses to map routes_
 
 
