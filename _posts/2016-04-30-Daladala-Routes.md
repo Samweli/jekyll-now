@@ -23,7 +23,8 @@ The main activities were to organise and assign the mappers bus routes to collec
 
 _Mappers boarding Daladala buses to map routes_
 
-You can watch the bus routes mapping [here](https://demo.door2door.io/DAR-TYC-tracking/index.html)\
+You can watch the bus routes mapping [here](https://demo.door2door.io/DAR-TYC-tracking/index.html)
+
 
 Wiki for the project can be found here[Transport wiki](https://wiki.openstreetmap.org/wiki/Dar_es_Salaam/Transport)
 
