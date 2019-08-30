@@ -10,6 +10,8 @@ published: true
 
 ![](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/isochrone_map.png)
 
+_example isochrone map showing hospitals accessibility times in minutes by car_
+
 ## Isochrone Map
 I created a plugin to help map creators to use QGIS in producing isochrone maps, which are used to show accessibility of different facilities in service areas. This tool extends QGIS functionality in isochrone map creation. 
 
