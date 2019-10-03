@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: Building plugin for converting ODK location data to WKT in QGIS
-published: false
+title: Converting ODK location data to WKT in QGIS
+published: true
 ---
 
 
