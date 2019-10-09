@@ -7,9 +7,6 @@ published: true
 
 ![](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/trash-detector.png)
 
-## Web Trash Map
-![Online Trash Map](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/trash-detector.png)
-
 _Trash detection web application interface_
 
 ## Building web application to detect trash in images
