@@ -5,10 +5,10 @@ title: Using AI in Trash Detection
 published: true
 ---
 
-![](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/trash-detection.png)
+![](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/trash-detector.png)
 
 ## Web Trash Map
-![Online Trash Map](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/trash-detection.png)
+![Online Trash Map](https://raw.githubusercontent.com/samweli/jekyll-now/master/images/trash-detector.png)
 
 _Trash detection web application interface_
 
