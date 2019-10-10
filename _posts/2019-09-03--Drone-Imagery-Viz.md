@@ -17,10 +17,11 @@ At the end of 2017 The World Bank Tanzania helped in collecting drone imagery in
 The activity covered all areas that are nearby all the planned BRT (Bus Rapid Transit) routes.
 
 After successful imagery data collection, next it was required to visualize the collected data, 
-one of the challenges in this was the raw data was too large to load in a normal computer, it took long time to view it, also the data formart (geotiff) requires special GIS applications (most are desktop based) to access and view,
- this constrained all user to first install those applications in order to view the data. 
+one of the challenges in this was the raw data was too large to load in a normal computer, it took long time to view it,
+ also the data format (geotiff) requires special GIS applications (most are desktop based) to access and view,
+ this constrained users to first install those applications in order to view the data. 
 
-These challenges raised a need to develop other tool web based) in order to simplify data access and use.
+These challenges raised a need to develop other tool (web based) in order to simplify data access and use.
 
 As part of the World Bank Tanzania team which supported DART to collect the data I was tasked to create visualization for the drone imagery.
 
