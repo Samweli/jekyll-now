@@ -11,13 +11,13 @@ _Trash detection web application interface_
 
 ## Building web application to detect trash in images
 
-After collection of trash data [here](http://samweli.github.io/Trash-Map/), some of the collected trash images didn't 
-contain wastes, this occured because some of the images were for legal dump sites.
+After trash mapping activity [here](http://samweli.github.io/Trash-Map/), some of the collected trash images didn't 
+contain waste, this occured because some of the images were for legal dump sites.
 
 During the collection activity the data wasn't tagged whether it contained illegal dump sites or legal dump sites or both.
 
-So I built a simple web application that helps in determining waste from an image. This was for a purpose of tagging images 
-from the collection activity whether they contain waste or not.
+So I built a simple web application that helps in detecting waste from an image. This was for a purpose of tagging images 
+from the mapping activity whether they contain waste or not.
 
 The result application can be found [here](http://trash-detection.herokuapp.com/).
 
