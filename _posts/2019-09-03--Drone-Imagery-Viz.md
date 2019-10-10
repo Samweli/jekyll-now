@@ -23,6 +23,6 @@ Hence other tool was needed to be built in order to simplify data access and use
 
 As part of the World Bank Tanzania team which supported DART to collect the data I was tasked to create visualization for the drone imagery.
 
-I decided to used [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) to build the web map which shows the imagery.
+I decided to use [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) to build the web map which shows the imagery.
 
 The result was a high perfomance and easily accessible web map. You can view it [here](http://brt-viz.herokuapp.com/)
